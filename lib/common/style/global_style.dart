@@ -7,7 +7,84 @@ import 'dimen.dart';
 
 class GlobalStyle {
 
-  // Text
+  // Text flutterflow
+  static const TextStyle displayLarge = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle displayMedium = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle displaySmall = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle headlineLarge = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle headlineMedium = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle headlineSmall = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle titleLarge = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle titleMedium = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle titleSmall = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle bodyLarge = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle bodyMedium = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle bodySmall = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle labelLarge = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle labelMedium = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+  static const TextStyle labelSmall = TextStyle(
+      fontSize: Dimen.txt_15,
+      fontWeight: FontWeight.w400,
+      color: ColorPalette.kGrey
+  );
+
+
   static const TextStyle txtTitle = TextStyle(
       fontSize: Dimen.txt_18,
       fontWeight: FontWeight.w500,

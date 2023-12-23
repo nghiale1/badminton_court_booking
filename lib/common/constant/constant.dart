@@ -68,3 +68,5 @@ class IconSchedule {
   static const angry = "assets/icon/emotion/angry.png";
   static const confused = "assets/icon/emotion/confused.png";
 }
+
+
